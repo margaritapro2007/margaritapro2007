@@ -1,6 +1,6 @@
 # Привет. Меня зовут Рита и я ничего не знаю 👋
 
-![Profile Banner]([https://github.com/margaritapro2007/my-profile/blob/main/images.jpg](https://github.com/margaritapro2007/margaritapro2007/blob/main/images.jpg))  
+![Profile Banner](https://github.com/margaritapro2007/margaritapro2007/blob/main/images.jpg)  
 *Добро пожаловать на мою страницу!*
 
 Я **веб-разработчик и дизайнер**, специализируюсь на создании креативных сайтов и приложений.
