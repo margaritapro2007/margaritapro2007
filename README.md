@@ -21,6 +21,4 @@
 ## 📫 Связаться со мной
 
 - Email: stupid.gnom228@gmail.com
-- Личный сайт:[file:///C:/Users/Student/Desktop/git/margaritapro2007.github.io/index.html]
-
 Спасибо, что заглянули! А лучше не надо.
