@@ -24,4 +24,5 @@
 
 - Email: stupid.gnom228@gmail.com
 - TG: @Dishns
+  
 Спасибо, что заглянули! А лучше не надо.
